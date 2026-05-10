@@ -1,0 +1,4 @@
+strands
+streamlit
+requests
+strands-agents-tools
